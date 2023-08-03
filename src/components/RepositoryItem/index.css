@@ -1,0 +1,23 @@
+.repository-item {
+  list-style-type: none;
+  background: lightgrey;
+  border-radius: 3px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.repository-title {
+  font-size: 12px;
+}
+.image {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
+.icons {
+  width: 15px;
+  height: 15px;
+  margin-right: 10px;
+}
